@@ -1,6 +1,6 @@
 # Hasta Takip Sistemi (Patient Tracking System)
 
-React 19 + TypeScript + Vite ile geliştirilmiş hasta takip uygulaması.
+React 18 + TypeScript + Vite ile geliştirilmiş hasta takip uygulaması.
 
 ## Özellikler
 
